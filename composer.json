@@ -16,6 +16,7 @@
         "zendframework/zend-config": "2.*",
 	"rmccue/requests": "dev-master",
 	"allovince/evaoauth": "dev-master",
+        "slim/slim": "2.*",
         "monolog/monolog": "dev-master"
     }
 }
